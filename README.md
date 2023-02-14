@@ -2,7 +2,7 @@
 <h2 dir="auto"><a id="user-content-installing-wallpaper" class="anchor" href="https://github.com/silentshadow88/Mod-Wallpaper-for-Proton-X50-Atlas-OS/edit/main/README.md#installing-wallpaper"></a><span style="text-decoration: underline;"><strong>Installing Wallpaper</strong></span></h2>
 <p><strong>Steps:</strong></p>
 <ol>
-<li dir="auto">&nbsp;Download the script for your car variant&nbsp;<a href="https://drive.google.com/file/d/1TjxV2UE5Y76gNvKHD2fYUWFLPyG90p-s/view?usp=share_link" rel="nofollow">here</a>.</li>
+<li dir="auto">&nbsp;Download the script&nbsp;<a href="https://drive.google.com/file/d/1TjxV2UE5Y76gNvKHD2fYUWFLPyG90p-s/view?usp=share_link" rel="nofollow">here</a>.</li>
 <li dir="auto">&nbsp;Copy up to 3 images of your own choice in .png format to the root of your USB drive. If you have image files in other formats, you can convert them using an online image converter or edit them with Paint and save them in .png format.</li>
 <li dir="auto">Rename the .png image files to&nbsp;<strong>wallpaper_color</strong>,&nbsp;<strong>wallpaper_green</strong>, and&nbsp;<strong>wallpaper_default</strong>. These names indicate the names of the 3 default wallpapers in the Theme app.</li>
 <li dir="auto">Extract the script folder along with the 3 image files to the root of your USB drive.</li>
