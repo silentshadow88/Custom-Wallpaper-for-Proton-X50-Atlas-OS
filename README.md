@@ -1,7 +1,8 @@
 <p dir="auto" data-sourcepos="1:1-1:122"><strong>This simple script allows you to customize the background wallpaper on your Proton X50 IHU-Atlas OS to your own wallpaper.</strong></p>
 <h2 dir="auto"><a id="user-content-installing-wallpaper" class="anchor" href="https://github.com/silentshadow88/Mod-Wallpaper-for-Proton-X50-Atlas-OS/edit/main/README.md#installing-wallpaper"></a><span style="text-decoration: underline;"><strong>Installing Wallpaper</strong></span></h2>
 <p><strong>Steps:</strong></p>
-<ol>https://user-images.githubusercontent.com/124480402/218897773-5667175f-a03b-4fdf-83d4-2bac02ddb056.JPG
+<ol>
+ ![12](https://user-images.githubusercontent.com/124480402/218898164-2e4426ad-aed2-44f5-8f9a-402ed850a929.JPG) 
 
 <li dir="auto">&nbsp;Download the script&nbsp;<a href="https://drive.google.com/file/d/1TjxV2UE5Y76gNvKHD2fYUWFLPyG90p-s/view?usp=share_link" rel="nofollow">here</a>.</li>
 <li dir="auto">&nbsp;Copy up to 3 images of your own choice in .png format to the root of your USB drive. If you have image files in other formats, you can convert them using an online image converter or edit them with Paint and save them in .png format.</li>
@@ -34,4 +35,4 @@
 </div>
 </div>
 
-![12](https://user-images.githubusercontent.com/124480402/218898164-2e4426ad-aed2-44f5-8f9a-402ed850a929.JPG)
+
