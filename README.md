@@ -1,4 +1,4 @@
-<p dir="auto" data-sourcepos="1:1-1:122"><strong>This simple script allows you to customize the background wallpaper on your Proton X50 IHU-Atlas OS to your own wallpaper.</strong></p>
+<p dir="auto" data-sourcepos="1:1-1:122"><strong>This simple steps allows you to customize the background wallpaper on your Proton X50 IHU-Atlas OS to your own wallpaper.</strong></p>
 <h2 dir="auto"><a id="user-content-installing-wallpaper" class="anchor" href="https://github.com/silentshadow88/Mod-Wallpaper-for-Proton-X50-Atlas-OS#installing-wallpaper"></a><a id="user-content-installing-wallpaper" href="https://github.com/silentshadow88/Mod-Wallpaper-for-Proton-X50-Atlas-OS/edit/main/README.md#installing-wallpaper"></a><strong>Installing Wallpaper</strong></h2>
 <p dir="auto"><strong>Steps:</strong></p>
 <ol dir="auto">
