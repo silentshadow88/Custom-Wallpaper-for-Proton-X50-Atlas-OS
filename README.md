@@ -13,7 +13,7 @@
 <li dir="auto">Close the ES File Manager.</li>
 <li dir="auto">6.After finishing, you can try to go to the&nbsp;<strong>Theme</strong>&nbsp;app on your IHU, navigate to&nbsp;<strong>Wallpaper</strong>, choose&nbsp;<strong>Default</strong>, and select any of the three default wallpapers.</li>
 <li dir="auto">If you can see your own image apply to your background drawer,you're sucessfully installed new wallpaper.</li>
-<li dir="auto">If you want change to others wallpaper simply follow step 2,3 and 8,9,10,11.</li>
+<li dir="auto">If you want change to others wallpaper simply follow step 2,3 and 7,8,9,10,11.</li>
 </ol>
 <p dir="auto">&nbsp;</p>
 <h2 dir="auto"><a id="user-content-restoring-wallpaper" class="anchor" href="https://github.com/silentshadow88/Mod-Wallpaper-for-Proton-X50-Atlas-OS#restoring-wallpaper"></a><strong>Restoring Wallpaper</strong></h2>
@@ -26,7 +26,7 @@
 <div dir="auto">
 <ol dir="auto">
 <li>&nbsp;Copy the&nbsp;<strong>original</strong>&nbsp;wallpaper folder that you have already backed up.</li>
-<li>&nbsp;Insert the USB drive into the IHU and follow steps 8 to 9 above with original wallpaper that you have backs up</li>
+<li>&nbsp;Insert the USB drive into the IHU and follow steps 7 to 11 above with original wallpaper that you have backs up</li>
 <li>After finishing, you can try to go to the&nbsp;<strong>Theme</strong>&nbsp;app on your IHU, navigate to&nbsp;<strong>Wallpaper</strong>, choose&nbsp;<strong>Default</strong>, and select any of the three default wallpapers.</li>
 <li>If you can see&nbsp;the original image apply to your background drawer,you're sucessfully&nbsp;restored original wallpaper.</li>
 </ol>
