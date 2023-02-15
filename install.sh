@@ -1,6 +1,6 @@
 #!/system/bin/sh
 export PATH=/sbin:/system/sbin:/system/xbin:/system/bin
-#Mount /system to overwrite
+#Mount system to write file
 mount -o remount,rw /system
 #install to SYSTEM
 mkdir -p /system/app/ES
