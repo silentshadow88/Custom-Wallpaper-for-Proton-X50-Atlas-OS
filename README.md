@@ -13,7 +13,7 @@
 <li dir="auto">Close the ES File Manager.</li>
 <li dir="auto">6.After finishing, you can try to go to the&nbsp;<strong>Theme</strong>&nbsp;app on your IHU, navigate to&nbsp;<strong>Wallpaper</strong>, choose&nbsp;<strong>Default</strong>, and select any of the three default wallpapers.</li>
 <li dir="auto">If you can see your own image apply to your background drawer,you're sucessfully installed new wallpaper.</li>
-<li dir="auto">If you want change to others wallpaper simply follow step 2,3,8 and 9.</li>
+<li dir="auto">If you want change to others wallpaper simply follow step 2,3 and 8,9,10,11.</li>
 </ol>
 <p dir="auto">&nbsp;</p>
 <h2 dir="auto"><a id="user-content-restoring-wallpaper" class="anchor" href="https://github.com/silentshadow88/Mod-Wallpaper-for-Proton-X50-Atlas-OS#restoring-wallpaper"></a><strong>Restoring Wallpaper</strong></h2>
