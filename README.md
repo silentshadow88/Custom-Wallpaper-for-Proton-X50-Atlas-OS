@@ -32,6 +32,7 @@
 </ol>
 <h1 dir="auto"><a id="user-content-this-script-backs-up-the-original-wallpaper-to-a-usb-drive-please-save-the-original-file-safely-if-you-want-to-restore-it-later-if-you-want-to-create-another-wallpaper-simply-insert-your-newly-created-wallpaper-into-the-original-folder-and-run-the-restoration-script" class="anchor" href="https://github.com/silentshadow88/Mod-Wallpaper-for-Proton-X50-Atlas-OS#this-script-backs-up-the-original-wallpaper-to-a-usb-drive-please-save-the-original-file-safely-if-you-want-to-restore-it-later-if-you-want-to-create-another-wallpaper-simply-insert-your-newly-created-wallpaper-into-the-original-folder-and-run-the-restoration-script"></a>&nbsp;Please save the original file safely if you want to restore it later. .</h1>
 </div>
+  
 ![copyndelete](https://user-images.githubusercontent.com/124480402/218911730-0c3401dc-f64f-4e7c-ab99-de038eea324a.JPG)
 
 ![done](https://user-images.githubusercontent.com/124480402/218898883-94ef254e-b8fc-4d66-9041-3d25386e7d54.jpg)
