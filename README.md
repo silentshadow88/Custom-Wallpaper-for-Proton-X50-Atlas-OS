@@ -25,7 +25,7 @@
 <div dir="auto">
 <div dir="auto">
 <ol dir="auto">
-<li>&nbsp;Copy the&nbsp;<strong>original</strong>&nbsp;wallpaper folder that you have already backed up.</li>
+<li>&nbsp;Copy the&nbsp;<strong>original</strong>&nbsp;wallpaper file that you have already backed up.</li>
 <li>&nbsp;Insert the USB drive into the IHU and follow steps 7 to 11 above with original wallpaper that you have backs up</li>
 <li>After finishing, you can try to go to the&nbsp;<strong>Theme</strong>&nbsp;app on your IHU, navigate to&nbsp;<strong>Wallpaper</strong>, choose&nbsp;<strong>Default</strong>, and select any of the three default wallpapers.</li>
 <li>If you can see&nbsp;the original image apply to your background drawer,you're sucessfully&nbsp;restored original wallpaper.</li>
