@@ -1,37 +1,31 @@
-<p dir="auto" data-sourcepos="1:1-1:122"><strong>This simple steps allows you to customize the background wallpaper on your Proton X50 IHU-Atlas OS to your own wallpaper.</strong></p>
-<h2 dir="auto"><a id="user-content-installing-wallpaper" class="anchor" href="https://github.com/silentshadow88/Mod-Wallpaper-for-Proton-X50-Atlas-OS#installing-wallpaper"></a><a id="user-content-installing-wallpaper" href="https://github.com/silentshadow88/Mod-Wallpaper-for-Proton-X50-Atlas-OS/edit/main/README.md#installing-wallpaper"></a><strong>Installing Wallpaper</strong></h2>
-<p dir="auto"><strong>Steps:</strong></p>
-<ol dir="auto">
-<li dir="auto">&nbsp;Download the installation script&nbsp;<a href="https://drive.google.com/file/d/1aSx02853attAaX7MMRAXsLPV9SLAEyuL/view?usp=share_link" rel="nofollow">here</a>.</li>
-<li dir="auto">&nbsp;Copy up to 3 images of your own choice in .png format to the root of your USB drive. If you have image files in other formats, you can convert them using an online image converter or open with Paint and save them in .png format.</li>
-<li dir="auto">Rename the .png image files to&nbsp;<strong>wallpaper_color</strong>,&nbsp;<strong>wallpaper_green</strong>, and&nbsp;<strong>wallpaper_default</strong>. These names indicate the names of the 3 default wallpapers in the Theme app.</li>
-<li dir="auto">Extract the downloaded zip file that contain installation script&nbsp; along with the 3 image files to the root of your USB drive.</li>
-<li dir="auto">After following these steps, insert the USB drive into your IHU and wait for the script to execute, install the file manager, and reboot the IHU.</li>
-<li dir="auto">Now you have the ES File Manager. <strong>Please be careful when using this file manager, as you can browse to other file systems.</strong></li>
-<li dir="auto">Open the ES File Manager and go to <strong>Home &gt; Android &gt; data &gt; com.malaysia.theme &gt; files &gt; theme.</strong> Copy all three original wallpapers, named wallpaper_color.png, wallpaper_green.png, and wallpaper_default.png, to a USB drive and save it safely. We will need it for later restoration.</li>
-<li dir="auto">Now, delete all three original wallpapers from the theme folder and copy your own wallpaper from the USB drive to this folder.</li>
-<li dir="auto">Close the ES File Manager.</li>
-<li dir="auto">6.After finishing, you can try to go to the&nbsp;<strong>Theme</strong>&nbsp;app on your IHU, navigate to&nbsp;<strong>Wallpaper</strong>, choose&nbsp;<strong>Default</strong>, and select any of the three default wallpapers.</li>
-<li dir="auto">If you can see your own image apply to your background drawer,you're sucessfully installed new wallpaper.</li>
-<li dir="auto">If you want change to others wallpaper simply follow step 2,3 and 7,8,9,10,11.</li>
-</ol>
-<p dir="auto">&nbsp;</p>
-<h2 dir="auto"><a id="user-content-restoring-wallpaper" class="anchor" href="https://github.com/silentshadow88/Mod-Wallpaper-for-Proton-X50-Atlas-OS#restoring-wallpaper"></a><strong>Restoring Wallpaper</strong></h2>
-<p dir="auto"><strong>&nbsp;</strong><strong>Steps</strong>:</p>
-<div dir="auto">
-<div dir="auto">
-<div dir="auto">
-<div dir="auto">
-<div dir="auto">
-<div dir="auto">
-<ol dir="auto">
-<li>&nbsp;Copy the&nbsp;<strong>original</strong>&nbsp;wallpaper file that you have already backed up.</li>
-<li>&nbsp;Insert the USB drive into the IHU and follow steps 7 to 11 above with original wallpaper that you have backs up</li>
-<li>After finishing, you can try to go to the&nbsp;<strong>Theme</strong>&nbsp;app on your IHU, navigate to&nbsp;<strong>Wallpaper</strong>, choose&nbsp;<strong>Default</strong>, and select any of the three default wallpapers.</li>
-<li>If you can see&nbsp;the original image apply to your background drawer,you're sucessfully&nbsp;restored original wallpaper.</li>
-</ol>
-<h1 dir="auto"><a id="user-content-this-script-backs-up-the-original-wallpaper-to-a-usb-drive-please-save-the-original-file-safely-if-you-want-to-restore-it-later-if-you-want-to-create-another-wallpaper-simply-insert-your-newly-created-wallpaper-into-the-original-folder-and-run-the-restoration-script" class="anchor" href="https://github.com/silentshadow88/Mod-Wallpaper-for-Proton-X50-Atlas-OS#this-script-backs-up-the-original-wallpaper-to-a-usb-drive-please-save-the-original-file-safely-if-you-want-to-restore-it-later-if-you-want-to-create-another-wallpaper-simply-insert-your-newly-created-wallpaper-into-the-original-folder-and-run-the-restoration-script"></a>&nbsp;Please save the original wallpaper file safely if you want to restore it later. .</h1>
-</div>
+## Proton X50 IHU-Atlas OS Custom Wallpaper Guide
+
+This simple guide allows you to customize the background wallpaper on your Proton X50 IHU-Atlas OS to your own wallpaper.
+
+### Installing Wallpaper
+
+1. **Download the installation script.** [Download link here](https://drive.google.com/file/d/1aSx02853attAaX7MMRAXsLPV9SLAEyuL/view).
+2. **Copy up to 3 images of your own choice in .png format to the root of your USB drive.** If you have image files in other formats, you can convert them using an online image converter or open with Paint and save them in .png format.
+3. **Rename the .png image files to wallpaper_color, wallpaper_green, and wallpaper_default.** These names indicate the names of the 3 default wallpapers in the Theme app.
+4. **Extract the downloaded zip file that contain installation script along with the 3 image files to the root of your USB drive.**
+5. **Insert the USB drive into your IHU and wait for the script to execute, install the file manager, and reboot the IHU.** After following these steps, you will have the ES File Manager. Please be careful when using this file manager, as you can browse to other file systems.
+6. **Open the ES File Manager and go to Home > Android > data > com.malaysia.theme > files > theme.** Copy all three original wallpapers, named wallpaper_color.png, wallpaper_green.png, and wallpaper_default.png, to a USB drive and save it safely. We will need it for later restoration.
+7. **Delete all three original wallpapers from the theme folder and copy your own wallpaper from the USB drive to this folder.**
+8. **Close the ES File Manager.**
+9. **Try to go to the Theme app on your IHU, navigate to Wallpaper, choose Default, and select any of the three default wallpapers.** If you can see your own image apply to your background drawer, you have successfully installed a new wallpaper.
+10. **If you want to change to another wallpaper, simply follow steps 2,3 and 7-9 again.**
+
+### Restoring Wallpaper
+
+1. **Copy the original wallpaper file that you have already backed up.**
+2. **Insert the USB drive into the IHU and follow steps 6-9 above with the original wallpaper that you have backed up.**
+3. **Try to go to the Theme app on your IHU, navigate to Wallpaper, choose Default, and select any of the three default wallpapers.** If you can see the original image apply to your background drawer, you have successfully restored the original wallpaper.
+
+**Disclaimer:**
+
+Please note that any modifications made to your Proton X50 IHU-Atlas OS, including customizing the wallpaper, may void the manufacturer's warranty and can potentially harm or damage your device. Use this guide at your own risk. We are not responsible for any malfunctions, errors, or damages that may occur as a result of using this guide.
+
+
 
 ![12](https://user-images.githubusercontent.com/124480402/218913069-76486131-d2ce-4549-8614-dd1284ad1284.JPG)
   
