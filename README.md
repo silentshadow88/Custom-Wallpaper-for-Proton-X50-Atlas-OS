@@ -9,7 +9,7 @@ This simple guide allows you to customize the background wallpaper on your Proto
 3. **Rename the .png image files to wallpaper_color, wallpaper_green, and wallpaper_default.** These names indicate the names of the 3 default wallpapers in the Theme app.
 4. **Extract the downloaded zip file that contain installation script along with the 3 image files to the root of your USB drive.**
 5. **Insert the USB drive into your IHU and wait for the script to execute, install the file manager, and reboot the IHU.** After following these steps, you will have the ES File Manager. Please be careful when using this file manager, as you can browse to other file systems.
-6. **Open the ES File Manager and go to Home > Android > data > com.malaysia.theme > files > theme.** Copy all three original wallpapers, named wallpaper_color.png, wallpaper_green.png, and wallpaper_default.png, to a USB drive and save it safely. We will need it for later restoration.
+6. **Open the ES File Manager and go to Home > Android > data > com.malaysia.theme > files > theme.** Copy all three original wallpapers, named **wallpaper_color.png, wallpaper_green.png, and wallpaper_default.png,** to a USB drive and save it safely. We will need it for later restoration.
 7. **Delete all three original wallpapers from the theme folder and copy your own wallpaper from the USB drive to this folder.**
 8. **Close the ES File Manager.**
 9. **Try to go to the Theme app on your IHU, navigate to Wallpaper, choose Default, and select any of the three default wallpapers.** If you can see your own image apply to your background drawer, you have successfully installed a new wallpaper.
@@ -26,6 +26,8 @@ This simple guide allows you to customize the background wallpaper on your Proto
 Please note that any modifications made to your Proton X50 IHU-Atlas OS, including customizing the wallpaper, may void the manufacturer's warranty and can potentially harm or damage your device. Use this guide at your own risk. We are not responsible for any malfunctions, errors, or damages that may occur as a result of using this guide.
 
 
+
+## Reference
 
 ![12](https://user-images.githubusercontent.com/124480402/218913069-76486131-d2ce-4549-8614-dd1284ad1284.JPG)
   
