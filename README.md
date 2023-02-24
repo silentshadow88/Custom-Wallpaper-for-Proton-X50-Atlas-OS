@@ -25,9 +25,8 @@ This simple guide allows you to customize the background wallpaper on your Proto
 
 **Disclaimer:**
 
-Please note that any modifications made to your Proton X50 IHU-Atlas OS, including customizing the wallpaper, may void the manufacturer's warranty and can potentially harm or damage your device. Use this guide at your own risk. We are not responsible for any malfunctions, errors, or damages that may occur as a result of using this guide.
-
-
+<h3 style="color:red;">Please note that any modifications made to your Proton X50 IHU-Atlas OS, including customizing the wallpaper, may void the manufacturer's warranty and can potentially harm or damage your device. Use this guide at your own risk. We are not responsible for any malfunctions, errors, or damages that may occur as a result of using this guide.
+</h3>
 
 ## Reference
 
