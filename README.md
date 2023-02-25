@@ -6,10 +6,10 @@ This simple guide allows you to customize the background wallpaper on your Proto
 
 ### Installing Wallpaper
 
-1. **Download the installation script.** [Download link here](https://drive.google.com/file/d/1aSx02853attAaX7MMRAXsLPV9SLAEyuL/view).
+1. **Download the installation script.** [Download link here](https://drive.google.com/file/d/1qakHKA-bDLTbNwGepgWEx5QL-pxrCFqm/view).
 2. **Copy up to 3 images of your own choice in .png format to the root of your USB drive.** If you have image files in other formats, you can convert them using an online image converter or open with Paint and save them in .png format.
 3. **Rename the .png image files to wallpaper_color, wallpaper_green, and wallpaper_default.** These names indicate the names of the 3 default wallpapers in the Theme app.
-4. **Extract the downloaded zip file that contain installation script along with the 3 image files to the root of your USB drive.**
+4. Extract the downloaded zip file that contain installation script only *(see Reference)* along with the 3 image files to the root of your USB drive.
 5. **Insert the USB drive into your IHU and wait for the script to execute, install the file manager, and reboot the IHU.** After following these steps, you will have the ES File Manager. Please be careful when using this file manager, as you can browse to other file systems.
 6. **Open the ES File Manager and go to Home > Android > data > com.malaysia.theme > files > theme.** Copy all three original wallpapers, named **wallpaper_color.png, wallpaper_green.png, and wallpaper_default.png,** to a USB drive and save it safely. We will need it for later restoration.
 7. **Delete all three original wallpapers from the theme folder and copy your own wallpaper from the USB drive to this folder.**
