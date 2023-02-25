@@ -23,6 +23,13 @@ This simple guide allows you to customize the background wallpaper on your Proto
 2. **Insert the USB drive into the IHU and follow steps 6-9 above with the original wallpaper that you have backed up.**
 3. **Try to go to the Theme app on your IHU, navigate to Wallpaper, choose Default, and select any of the three default wallpapers.** If you can see the original image apply to your background drawer, you have successfully restored the original wallpaper.
 
+### Uninstalling ES File Manager
+1.  Extract the downloaded zip file that contain uninstallation script only to the root of USB drive.
+2.  Eject USB drive and insert to IHU.
+3.  Wait until IHU reboot
+4.  Done
+
+
 **Disclaimer:**
 
 <h3 style="color:red;">Please note that any modifications made to your Proton X50 IHU-Atlas OS, including customizing the wallpaper, may void the manufacturer's warranty and can potentially harm or damage your device. Use this guide at your own risk. We are not responsible for any malfunctions, errors, or damages that may occur as a result of using this guide.
