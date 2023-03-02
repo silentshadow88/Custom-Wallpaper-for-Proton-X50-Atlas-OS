@@ -2,7 +2,6 @@
 
 This simple guide allows you to customize the background wallpaper on your Proton X50 IHU-Atlas OS to your own wallpaper.
 
-## Please make sure to use the Xeon script first before proceeding with this guide.
 
 ### Installing Wallpaper
 
