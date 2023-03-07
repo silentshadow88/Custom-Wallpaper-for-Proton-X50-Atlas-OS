@@ -5,7 +5,7 @@ This simple guide allows you to customize the background wallpaper on your Proto
 
 ### Installing Wallpaper
 
-1. **Download the installation script.** [Download link here](https://drive.google.com/file/d/1qakHKA-bDLTbNwGepgWEx5QL-pxrCFqm/view).
+1. **Download the installation script.Refer PX50EntApp to install ES File Explorer
 2. **Copy up to 3 images of your own choice in .png format to the root of your USB drive.** If you have image files in other formats, you can convert them using an online image converter or open with Paint and save them in .png format.
 3. **Rename the .png image files to wallpaper_color, wallpaper_green, and wallpaper_default.** These names indicate the names of the 3 default wallpapers in the Theme app.
 4. Extract the downloaded zip file that contain installation script only *(see Reference)* along with the 3 image files to the root of your USB drive.
