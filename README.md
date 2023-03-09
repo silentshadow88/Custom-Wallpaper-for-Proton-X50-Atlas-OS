@@ -5,10 +5,10 @@ This simple guide allows you to customize the background wallpaper on your Proto
 
 ### Installing Wallpaper
 
-1. Download ES [here](fm/ES.apk).Refer [PX50EntApp](https://github.com/silentshadow88/PX50EntApp) to install ES File Explorer,copy to app folder only,no need to extract `.so` file
+1. Download ES [here](fm/ES.apk).Refer [PX50EntApp](https://github.com/silentshadow88/PX50EntApp) to install ES File Explorer,copy to app folder only,no need to extract `.so` file.
 2. Copy up to 3 images of your own choice in .png format to the root of your USB drive.** If you have image files in other formats, you can convert them using an online image converter or open with Paint and save them in .png format.
 3. **Rename the .png image files to wallpaper_color, wallpaper_green, and wallpaper_default.** These names indicate the names of the 3 default wallpapers in the Theme app.
-4.Open the ES File Manager and go to Home > Android > data > com.malaysia.theme > files > theme.** Copy all three original wallpapers, named **wallpaper_color.png, wallpaper_green.png, and wallpaper_default.png,** to a USB drive and save it safely. We will need it for later restoration.
+4.Open the ES File Manager and go to Home > Android > data > com.malaysia.theme > files > theme.Copy all three original wallpapers, named **wallpaper_color.png, wallpaper_green.png, and wallpaper_default.png,** to a USB drive and save it safely. We will need it for later restoration.
 5. Delete all three original wallpapers from the theme folder and copy your own wallpaper from the USB drive to this folder.
 6. **Close the ES File Manager.**
 7. **Try to go to the Theme app on your IHU, navigate to Wallpaper, choose Default, and select any of the three default wallpapers.** If you can see your own image apply to your background drawer, you have successfully installed a new wallpaper.
